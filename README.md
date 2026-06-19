@@ -14,8 +14,8 @@
 
 ## 📚 Где искать документацию
 
-- [`mediahard-app/wiki/ops`](https://github.com/universwebsite/mediahard-app/wiki/ops/docs/index.md) — инфраструктурные статьи, чек‑листы, сценарии восстановления.
-- [`mkdocs.yml`](https://github.com/universwebsite/mediahard-app/wiki/ops/mkdocs.yml) — навигация и структура документации.
+- [`mediahard-app/wiki/ops`](https://github.com/universwebsite/mediahard-app/blob/master/wiki/ops/docs/index.md) — инфраструктурные статьи, чек‑листы, сценарии восстановления.
+- [`mkdocs.yml`](https://github.com/universwebsite/mediahard-app/blob/master/wiki/ops/mkdocs.yml) — навигация и структура документации.
 
 ## 🧪 Примеры типовых задач, которые документирую
 
