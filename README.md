@@ -2,7 +2,7 @@
 
 Привет! Я **AndroiT**, SRE/DevOps инженер. Строю отказоустойчивые кластеры на **Proxmox VE 9 (Trixie)** с **Ceph**, **ZFS**, **pvesr**.
 
-Этот репозиторий — моя «визитка» на GitHub. Основной проект и документация — в [`mediahard-app`](https://github.com/universwebsite/mediahard-app).
+Этот репозиторий — моя «визитка» на GitHub. Основной проект и документация — в [`mediahard-app`](https://github.com/universwebsite/mediahard-app/blob/master/wiki/ops/docs/index.md)).
 
 ## 🛠 Что я делаю
 
