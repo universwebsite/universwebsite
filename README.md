@@ -54,5 +54,5 @@ graph LR
 
 ## 📩 Контакты для коммерческих запросов
 *   **Secure E-mail:** universwebsite@proton.me
-*   **Репозиторий проекта:** GitHub Monorepo [mediahard-app](https://github.com/universwebsite/mediahard-appS)
+*   **Репозиторий проекта:** GitHub Monorepo [mediahard-app](https://github.com/universwebsite/mediahard-app/blob/master/wiki/ops/docs/index.md)
 *   **Проекты в продакшене:** [mediahard.ru](https://mediahard.ru) | [tagil-tv.ru](https://tagil-tv.ru)
