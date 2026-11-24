@@ -72,8 +72,8 @@
 ## 📋 Контакты
 
 * **Telegram**: [@andro_it](https://t.me/andro_it)
-* **MAX**: [AndroiT](https://max.ru/u/f9LHodD0cOJzvm-ApmeUiD-Fpck1OUzQVYVgiZ4HbzdHoYtkQ9fdZELMx8M)
-* **Matrix**: [AndroiT](https://matrix.to/#/@andro_it:matrix.org)
+* **MAX**: [@andro_it](https://max.ru/u/f9LHodD0cOJzvm-ApmeUiD-Fpck1OUzQVYVgiZ4HbzdHoYtkQ9fdZELMx8M)
+* **Matrix**: [@andro_it](https://matrix.to/#/@andro_it:matrix.org)
 * **Email**: universwebsite@proton.me
 * **Сайты**: [mediahard.ru](https://mediahard.ru) | [tagil-tv.ru](https://tagil-tv.ru)
 * **Канал MAX**: [MediaHard](https://max.ru/join/5XQxreJY2T0nC3rFf9yZOZbMvNSshKcoXakMu9uKddY)
