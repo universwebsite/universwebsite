@@ -76,7 +76,7 @@
 * **Matrix**: [AndroiT](https://matrix.to/#/@andro_it:matrix.org)
 * **Email**: universwebsite@proton.me
 * **Сайты**: [mediahard.ru](https://mediahard.ru) | [tagil-tv.ru](https://tagil-tv.ru)
-* **GitHub**: [universwebsite](https://github.com/universwebsite)
+* **Канал MAX**: [MediaHard](https://max.ru/join/5XQxreJY2T0nC3rFf9yZOZbMvNSshKcoXakMu9uKddY)
 
 ---
 
