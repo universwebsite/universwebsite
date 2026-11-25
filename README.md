@@ -15,7 +15,7 @@
 
 ### Live Demo: On-Premise AI-Assistant
 
-Протестировать локальный ИИ-контур (Ollama + Strict RAG на CPU без GPU) можно вживую на главной странице: **[mediahard.ru/#demo](https://mediahard.ru)**
+Протестировать локальный ИИ-контур (Ollama + Strict RAG на CPU без GPU) можно вживую на главной странице: **[mediahard.ru/#ai-demo](https://mediahard.ru/#ai-demo)**
 
 ---
 
